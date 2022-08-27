@@ -3,3 +3,4 @@ Method of teaching of Dr. Ammar Tufail is to much easy and motivative.
 Today learning git from Ms Qurat ul Ain
 Git is easy
 Work hard if you want to learn data science
+Arshad
